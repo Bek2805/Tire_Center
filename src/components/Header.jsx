@@ -32,16 +32,19 @@ const Header = () => {
                         <nav className="header_nav">
                             <button onClick={() => {
                                 setIsShown(!isShown)
+                                setEntrShown(false)
                                 setIsServisShown(false)
                                 setAboutShown(false)
                             }} className="header_choice">Товары</button>
                             <button onClick={() => {
                                 setIsServisShown(!isServisShown)
+                                setEntrShown(false)
                                 setIsShown(false)
                                 setAboutShown(false)
                             }} className="header_choice">Услуги</button>
                             <button onClick={() => {
                                 setAboutShown(!isAboutShown)
+                                setEntrShown(false)
                                 setIsServisShown(false)
                                 setIsShown(false)
                             }} className="header_choice">Компания</button>
@@ -298,7 +301,7 @@ const Header = () => {
             }
             {
                 isEntrShown && (
-                    <div onMouseLeave={() => setEntrShown(!isEntrShown)} className="entrance animate__animated animate__fadeInDown animate__faster">
+                    <div isEntrShown={() => setEntrShown(!isEntrShown)} className="entrance animate__animated animate__fadeInDown animate__faster">
                         <div className="container d-flex justify-between">
                             <div className="entrance__left-side">
                                 <h2 className="entrance__title">Вход</h2>
