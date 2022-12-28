@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Tire_Center/static/css/main.76b5890d.css",
+    "main.js": "/Tire_Center/static/js/main.49cfd0f1.js",
+    "static/media/hero.png": "/Tire_Center/static/media/hero.742459a38e41093560d5.png",
+    "static/media/about.png": "/Tire_Center/static/media/about.9b92c78cae1865e69802.png",
+    "static/media/services1.png": "/Tire_Center/static/media/services1.cab4bd1ba1525429ceba.png",
+    "static/media/services2.png": "/Tire_Center/static/media/services2.2b77a06b427352104d00.png",
+    "static/media/services.png": "/Tire_Center/static/media/services.fc5d0cd1ac11d97dbd3d.png",
+    "static/media/aktion2.png": "/Tire_Center/static/media/aktion2.354b35d378877fbd64d6.png",
+    "static/media/Autodiscs2.png": "/Tire_Center/static/media/Autodiscs2.c785e8ef4c4318f57e26.png",
+    "static/media/mototire.jpeg": "/Tire_Center/static/media/mototire.a3776462c3b44262a754.jpeg",
+    "static/media/Autodiscs1.png": "/Tire_Center/static/media/Autodiscs1.d5b60f45ca9d02601bb3.png",
+    "static/media/Autodiscs3.png": "/Tire_Center/static/media/Autodiscs3.42bb86b1e1ff33bd5b2e.png",
+    "static/media/aktion1.png": "/Tire_Center/static/media/aktion1.2135baaa239f760819fa.png",
+    "static/media/Tract.jpeg": "/Tire_Center/static/media/Tract.244827957daf41bc50e0.jpeg",
+    "static/media/Autodiscs4.png": "/Tire_Center/static/media/Autodiscs4.740ed379bc6033f958a6.png",
+    "static/media/aktion.png": "/Tire_Center/static/media/aktion.892e2516afac27153058.png",
+    "static/media/tire.png": "/Tire_Center/static/media/tire.2ae4b5b972b74fbfed59.png",
+    "index.html": "/Tire_Center/index.html",
+    "main.76b5890d.css.map": "/Tire_Center/static/css/main.76b5890d.css.map",
+    "main.49cfd0f1.js.map": "/Tire_Center/static/js/main.49cfd0f1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76b5890d.css",
+    "static/js/main.49cfd0f1.js"
+  ]
+}
